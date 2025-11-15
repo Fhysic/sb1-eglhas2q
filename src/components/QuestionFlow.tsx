@@ -54,7 +54,7 @@ export default function QuestionFlow() {
               Your bonus will be sent to you within 5-7 business days!
             </p>
             <a
-              href="https://uplevelrewarded.com/aff_c?offer_id=2557&aff_id=14721"
+              href="https://uplevelrewarrds.com/aff_c?offer_id=2330&aff_id=14721&source=%7Bclickid%7D"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-12 rounded-xl text-lg transition-all shadow-lg hover:shadow-xl transform hover:scale-105"
